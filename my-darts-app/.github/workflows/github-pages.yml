@@ -17,7 +17,7 @@
          run: dart pub get
        
        - name: Build web
-         run: dart compile js web/main.dart -o build/web/main.dart.js
+         run: dart run build_runner build --delete-conflicting-outputs
        
        - name: Deploy
          uses: peaceiris/actions-gh-pages@v3

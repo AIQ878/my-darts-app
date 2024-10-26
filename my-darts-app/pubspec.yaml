@@ -1,0 +1,12 @@
+name: my_darts_app
+description: A Dart web application.
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  # ここにプロジェクトの依存関係を追加します
+
+dev_dependencies:
+  build_runner: ^2.1.0
+  build_web_compilers: ^3.2.0

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-darts-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/my-darts-app/static/js/main.093679a0.chunk.js",
+    "main.js.map": "/my-darts-app/static/js/main.093679a0.chunk.js.map",
+    "runtime~main.js": "/my-darts-app/static/js/runtime~main.78597285.js",
+    "runtime~main.js.map": "/my-darts-app/static/js/runtime~main.78597285.js.map",
+    "static/js/2.f8bb6934.chunk.js": "/my-darts-app/static/js/2.f8bb6934.chunk.js",
+    "static/js/2.f8bb6934.chunk.js.map": "/my-darts-app/static/js/2.f8bb6934.chunk.js.map",
+    "static/js/3.31c88699.chunk.js": "/my-darts-app/static/js/3.31c88699.chunk.js",
+    "static/js/3.31c88699.chunk.js.map": "/my-darts-app/static/js/3.31c88699.chunk.js.map",
+    "index.html": "/my-darts-app/index.html",
+    "precache-manifest.04e6d6658bc31bacfcc28f0c8bbea570.js": "/my-darts-app/precache-manifest.04e6d6658bc31bacfcc28f0c8bbea570.js",
+    "service-worker.js": "/my-darts-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/my-darts-app/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
